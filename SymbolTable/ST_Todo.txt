@@ -1,0 +1,19 @@
+0- Type
+	- Abstract class can't be instantiated.
+	- Implementing interfaces.
+-------------
+1- Variable
+	- Missing type error.
+	- Prevent assigning for final variable.
+--------------
+2- Data Member
+	- Missing type error.
+--------------
+3- Function
+	- Missing return type.
+	- Check for return statment in methods and none ones for void's.
+	- Check calling method if it exists.
+--------------
+4- Parameters
+--------------
+Printing Errors From Queue in ST.
